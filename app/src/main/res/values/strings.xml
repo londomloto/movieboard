@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Favorite Movie</string>
+    <string name="movie_title">Movies</string>
+    <string name="tv_title">TV Shows</string>
+    <string name="poster">Poster</string>
+    <string name="title_placeholder">Movie Title</string>
+    <string name="release_placeholder">January 1, 2019</string>
+    <string name="overview_placeholder">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="nodata">No data found</string>
+</resources>
