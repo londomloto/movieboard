@@ -1,2 +1,2 @@
 # Movie Board
-Movie World consumer project for MADE submission at dicoding
+Content consumer dari proyek Movie World (proyek MADE dicoding)
